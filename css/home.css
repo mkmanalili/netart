@@ -1,0 +1,15 @@
+body{
+    background: white;
+}
+
+.google_display {
+justify-content: center;
+
+}
+
+.section{
+   position: relative;
+   left:50%;
+   bottom:450px;
+    z-index:1;
+}
